@@ -1,0 +1,9 @@
+H:\develop\MDApiTest\MDApiTest\bin\Debug\MDApiTest.exe
+H:\develop\MDApiTest\MDApiTest\bin\Debug\MDApiTest.pdb
+H:\develop\MDApiTest\MDApiTest\obj\Debug\MDApiTest.csprojResolveAssemblyReference.cache
+H:\develop\MDApiTest\MDApiTest\obj\Debug\MDApiTest.FrmMain.resources
+H:\develop\MDApiTest\MDApiTest\obj\Debug\MDApiTest.Properties.Resources.resources
+H:\develop\MDApiTest\MDApiTest\obj\Debug\MDApiTest.csproj.GenerateResource.Cache
+H:\develop\MDApiTest\MDApiTest\obj\Debug\MDApiTest.exe
+H:\develop\MDApiTest\MDApiTest\obj\Debug\MDApiTest.pdb
+H:\develop\MDApiTest\MDApiTest\bin\Debug\MDApiTest.exe.config
